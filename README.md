@@ -4,7 +4,7 @@
 
 ## Objective
 
-I am a software engineer with a broad understanding of multiple programming languages and a proven track record in problem-solving. I'm known for creative thinking and my ability to integrate and communicate effectively within team environments. I am seeking a challenging career path to leverage these skills, contribute to innovative projects, and continue expanding my technical knowledge.
+I am a software engineer with a broad understanding of multiple programming languages and a proven track record in problem-solving. I'm known for creative thinking and my ability to integrate and communicate effectively within team environments. I enjoy discovering new technologies and approaches. I am seeking a challenging career path to leverage these skills, contribute to innovative projects, and continue expanding my technical knowledge.
 
 ## Skills
 
