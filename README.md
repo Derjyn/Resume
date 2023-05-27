@@ -11,7 +11,7 @@ I am a software engineer with a broad understanding of multiple programming lang
 - Software engineering (_wide and shallow experience with hundreds of compiled/scripted languages and environments_)
 - Visual Studio Code (_and many other code editors and tools_)
 - GitHub (_and other repository systems_)
-- Project management (_tooling, organization/methodology, operations_)
+- Project management (_tooling, organization/methodology, issue tracking_)
 - Data/knowledge mining (_experienced with knowledge base systems, hunting down documentation/resources/solutions, etc_)
 - AI prompt engineering (_currently diving into the OpenAI API, exploring advanced topics in the field of prompt engineering and custom integrations_)
 
@@ -24,7 +24,14 @@ I am a software engineer with a broad understanding of multiple programming lang
 - Inventory management
 - IT tasks
 
-### Erebus Design, LLC | _Co-founder_ | Apr 2017 - Aug 2020
+### First Call Resolution | _Support Technician_ | Aug 2018 - Aug 2020
+
+- Worked primarily with the Stripe ecosphere
+- Customer/developer support
+- Communication with higher level customers (_founders, CEO, CTO, engineers, etc_)
+- Applications team (_troubleshoot code, develop documentation, communicate with advanced team_)
+
+### Erebus Design, LLC | _Co-founder_ | Apr 2016 - Jul 2018
 
 - Freelance development across a myriad of fields
 - Technology and business consultation
@@ -74,10 +81,8 @@ I am a software engineer with a broad understanding of multiple programming lang
 
 ## Certifications
 
-- [SalesForce Trailblazer](https://trailblazer.me/id/derjyn), SalesForce, Throughout 2021/2022
-- AWR-914-W (_Personal Protective Equipment Considerations for Infectious Agents_), FEMA, Oct 2022
-- Several certificates related to pandemic and world health issues, WHO, 2021
-- Minister, American Marriage Ministries, 2015
+- [SalesForce Trailblazer](https://trailblazer.me/id/derjyn) | SalesForce | 2019 - 2022
+- [Other various certificates](https://github.com/Derjyn/Resume/tree/main/Certificates)
 
 ## References
 
