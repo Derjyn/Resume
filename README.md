@@ -9,7 +9,7 @@ I am a software engineer with a broad understanding of multiple programming lang
 ## Skills
 
 - Software engineering (_wide and shallow experience numerous compiled/scripted languages and environments_)
-- Project management (_tooling, organization/methodology, issue tracking_)
+- Project management (_Agile, SCRUM, tooling, etc_)
 - Data/knowledge mining (_experienced with knowledge base systems, hunting down documentation/resources/solutions, etc_)
 - Visual Studio Code (_and many other code editors and tools_)
 - GitHub (_and other repository systems_)
