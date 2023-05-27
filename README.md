@@ -9,10 +9,10 @@ I am a software engineer with a broad understanding of multiple programming lang
 ## Skills
 
 - Software engineering (_wide and shallow experience with hundreds of compiled/scripted languages and environments_)
-- Visual Studio Code (_and many other code editors and tools_)
-- GitHub (_and other repository systems_)
 - Project management (_tooling, organization/methodology, issue tracking_)
 - Data/knowledge mining (_experienced with knowledge base systems, hunting down documentation/resources/solutions, etc_)
+- Visual Studio Code (_and many other code editors and tools_)
+- GitHub (_and other repository systems_)
 - AI prompt engineering (_currently diving into the OpenAI API, exploring advanced topics in the field of prompt engineering and custom integrations_)
 
 ## Experience
