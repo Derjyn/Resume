@@ -1,4 +1,4 @@
-# Nathan Harris
+# Nathan Harris | INFP | _He/Him_
 
 > [Email](mailto:derjyn@gmail.com) | [GitHub](https://github.com/Derjyn/) | [LinkedIn](https://www.linkedin.com/in/derjyn/)
 
