@@ -71,6 +71,7 @@ I am a software engineer with a broad understanding of multiple programming lang
 
 ### Miscellaneous/Creative
 
+- [Blue Wave Car Wash Promotional Video](https://youtu.be/qJkcNPecWAE)
 - While attending ITT for a short period (_computer engineering, circa 2002_), my physics instructor who was also working at NASA during this period invited me to assist seniors working on their graduation project; This was designing, building, and ultimately launching a sub-orbital satellite to take photos and a myriad of measurements at varying altitude ranges. They were having issues getting hardware to communicate effectively: a manager of the R&D department at Raytheon/Collins Aerospace had donated a microcontroller board which was being used as the "brain" of the satellite, and it didn't like the foreign hardware (_sensors, camera, HID, etc_). I can't specify which operating system was being used by default, but I identified the hardware compatibility issues to be rooted with the stock operating system. Within 30 minutes I flashed a Linux distribution to the microcontroller, and we had all hardware operable immediately. The R&D manager came to the campus to meet and speak with me, and offer me a job upon graduation. Life being what it is, I had to take a different path. It's an opportunity I'll always be sad I missed out on!
 
 - Cold Serenity, Epic GameJam entry: https://www.youtube.com/watch?v=0gG2xKP-LTw
