@@ -69,7 +69,7 @@ I am a software engineer with a broad understanding of multiple programming lang
 ### Miscellaneous/Creative
 
 - [Blue Wave Car Wash Promotional Video](https://youtu.be/qJkcNPecWAE)
-- Cold Serenity, Epic GameJam entry: https://www.youtube.com/watch?v=0gG2xKP-LTw
+- [Cold Serenity, Epic GameJam entry](https://www.youtube.com/watch?v=0gG2xKP-LTw)
 - Ultra Puck Battle, "Eye Candy", testing of audio reaction system for a game I'm developing:
   - https://www.youtube.com/watch?v=FW79b31aZD8
   - https://www.youtube.com/watch?v=qVxpJYUjpus
