@@ -68,6 +68,7 @@ I am a software engineer with a broad understanding of multiple programming lang
 
 ### Miscellaneous/Creative
 
+- [Various design works](https://github.com/Derjyn/Resume/tree/main/Art)
 - [Blue Wave Car Wash Promotional Video](https://youtu.be/qJkcNPecWAE)
 - [Cold Serenity, Epic GameJam entry](https://www.youtube.com/watch?v=0gG2xKP-LTw)
 - Ultra Puck Battle, "Eye Candy", testing of audio reaction system for a game I'm developing:
