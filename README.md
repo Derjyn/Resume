@@ -28,7 +28,7 @@ I am a software engineer with a broad understanding of multiple programming lang
 
 - Worked primarily with the Stripe ecosphere
 - Customer/developer support
-- Communication with higher level customers (_founders, CEO, CTO, engineers, etc_)
+- Communicated with higher level customers (_founders, CEO, CTO, engineers, etc_)
 - Applications team (_troubleshoot code, develop documentation, communicate with advanced team_)
 
 ### Erebus Design, LLC | _Co-founder_ | Apr 2016 - Jul 2018
